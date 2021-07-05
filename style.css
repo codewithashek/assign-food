@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.display-food{
+    display: flex;
+    padding-left: 3%;
+    font-size: 25px;
+}
+    
+
+#img{
+    width: 80%;
+    padding-top:5% ;
+    padding-left:3%;
+    border-radius:60px ;
+    
+    
+}
+
+#color{
+    color:orangered;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,orangered);
+    padding:10px 20px;
+    border-radius: 15px;
+    color: aliceblue;
+}
+section{
+    margin-bottom: 40px;
+}
+.mid{
+    background-image: url(images/frame.png);
+    
+}
+
+
