@@ -2,6 +2,43 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.top{
+    display: flex;
+    margin-left: 40px;
+    box-shadow: 5px 8px 15px white ;
+    
+   }
+   #foodbuzz{
+       color: rgb(253, 123, 47);
+   }
+ 
+ .top-right{
+     padding-left: 720px;
+     margin-top: 15px;
+     }
+ .top-right img{
+     margin-top: 1px;
+ }
+
+ .text{
+     text-decoration: none;
+     color: black;
+     font-weight: 1000 ;
+ }
+
+ #menu{
+    text-decoration: none;
+    color: orangered;
+    font-weight: 1000;
+    padding-left: 15px;
+    margin-top:15px;
+    
+    
+ }
+
+ 
+ 
+
 .display-food{
     display: flex;
     padding-left: 3%;
@@ -15,6 +52,7 @@ body{
     padding-top:5% ;
     padding-left:3%;
     border-radius:60px ;
+    margin-left: 40px;
     
     
 }
@@ -55,7 +93,7 @@ section{
     text-align: center;
     background-color:white ;
     color:white;
-    background-color: darkslategrey;
+    background-color:black;
     
 
 
