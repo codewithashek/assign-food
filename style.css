@@ -1,10 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .display-food{
     display: flex;
     padding-left: 3%;
     font-size: 25px;
+    
 }
     
 
@@ -34,5 +36,36 @@ section{
     background-image: url(images/frame.png);
     
 }
+.last{
+    text-align: center;
+}
+.final-box{
+    box-shadow: 4px 12px 15px gray;
+  
+    padding: 30px 100px 40px;
+    border-radius: 50px;
+    width: 20%;
+}
+.final-box img{
+    width: 80%;
+    margin-left: 5%;
+}
+
+.footer{
+    text-align: center;
+    background-color:white ;
+    color:white;
+    background-color: darkslategrey;
+    
+
+
+}
+    
+
+
+
+
+
+
 
 
